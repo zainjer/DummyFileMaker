@@ -1,0 +1,11 @@
+C:\~D\code projects\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.csprojAssemblyReference.cache
+C:\~D\code projects\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.AssemblyInfoInputs.cache
+C:\~D\code projects\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.AssemblyInfo.cs
+C:\~D\code projects\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.exe
+C:\~D\code projects\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.deps.json
+C:\~D\code projects\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.runtimeconfig.json
+C:\~D\code projects\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.runtimeconfig.dev.json
+C:\~D\code projects\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.dll
+C:\~D\code projects\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.pdb
+C:\~D\code projects\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.dll
+C:\~D\code projects\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.pdb
