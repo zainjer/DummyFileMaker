@@ -9,3 +9,16 @@ C:\~D\code projects\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.dll
 C:\~D\code projects\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.pdb
 C:\~D\code projects\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.dll
 C:\~D\code projects\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.pdb
+C:\Users\Areeb\Desktop\code\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.exe
+C:\Users\Areeb\Desktop\code\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.deps.json
+C:\Users\Areeb\Desktop\code\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.runtimeconfig.json
+C:\Users\Areeb\Desktop\code\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.runtimeconfig.dev.json
+C:\Users\Areeb\Desktop\code\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.dll
+C:\Users\Areeb\Desktop\code\DummyFileMaker\bin\Debug\netcoreapp3.1\DummyFileMaker.pdb
+C:\Users\Areeb\Desktop\code\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.csprojAssemblyReference.cache
+C:\Users\Areeb\Desktop\code\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.AssemblyInfoInputs.cache
+C:\Users\Areeb\Desktop\code\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.AssemblyInfo.cs
+C:\Users\Areeb\Desktop\code\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\Desktop\code\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.dll
+C:\Users\Areeb\Desktop\code\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.pdb
+C:\Users\Areeb\Desktop\code\DummyFileMaker\obj\Debug\netcoreapp3.1\DummyFileMaker.genruntimeconfig.cache

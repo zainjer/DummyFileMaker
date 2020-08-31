@@ -7,11 +7,29 @@ namespace DummyFileMaker
     {
         static void Main(string[] args)
         {
-            var filepath = "c:/dumdum/dummyFile.txt";
+            //var filepath = "c:/dumdum/dummyFile.txt";
+            string filepath= "";
+            int size = 0;
 
-            CreateFile(2,filepath);
+            var options = GetOptionsFromUser();
+            
+            size = options.Item1;
+            filepath = options.Item2;
+
+            CreateFile(size,filepath);
 
         }
+
+        private static (int, string) GetOptionsFromUser()
+        {
+            Console.WriteLine("Please enter dummy file size in MB");
+            int size = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Please enter the location you want file to be saved\n[Eg. C:/dummyFolder/dummyfile.txt] - Note: Do not use spaces in Location path");
+            string filePath = Console.ReadLine();
+
+            return (size,filePath);
+        }
+
 
         static void CreateFile(int sizeInMB, string path)
         {        
@@ -25,12 +43,15 @@ namespace DummyFileMaker
             using (BinaryWriter writer = new BinaryWriter(File.Open(path, FileMode.Create)))
             {
                 int status = 100000;
+                int approxSize = 0;
                 for(int i=0; i<=steps; i++)
                 {
                     if(status < 1)
                     {
-                        System.Console.WriteLine("100 kb done");
+                        approxSize += 100;
+                        System.Console.WriteLine(approxSize+" kb done");
                         status = 100000;
+
                     }
                     writer.Write(x);
 

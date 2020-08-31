@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\~D\\code projects\\DummyFileMaker\\DummyFileMaker.csproj",
+      "projectUniqueName": "C:\\Users\\Areeb\\Desktop\\code\\DummyFileMaker\\DummyFileMaker.csproj",
       "projectName": "DummyFileMaker",
-      "projectPath": "C:\\~D\\code projects\\DummyFileMaker\\DummyFileMaker.csproj",
+      "projectPath": "C:\\Users\\Areeb\\Desktop\\code\\DummyFileMaker\\DummyFileMaker.csproj",
       "packagesPath": "C:\\Users\\Areeb\\.nuget\\packages\\",
-      "outputPath": "C:\\~D\\code projects\\DummyFileMaker\\obj\\",
+      "outputPath": "C:\\Users\\Areeb\\Desktop\\code\\DummyFileMaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
